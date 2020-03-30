@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Primeiro App</string>
+    <string name="dialog_alert" />
+    <string name="positive">Nao digitou</string>
+    <string name="negativeButton" />
+    <string name="positiveButton" />
+</resources>
